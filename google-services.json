@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "295041244885",
+    "firebase_url": "https://great-ark-archery-clu-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "great-ark-archery-clu",
+    "storage_bucket": "great-ark-archery-clu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295041244885:android:7261416fe5a5296d2b8c5c",
+        "android_client_info": {
+          "package_name": "com.greatark.archery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3j8MY4XFHW4o0Bez7SbuWnAX8iQva14Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
